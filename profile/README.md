@@ -1,6 +1,6 @@
 ![Ablaze](https://raw.githubusercontent.com/Ablaze-MIRAI/.github/main/img/header.png)
 
-<div style="display: flex; gap: 10px 20px; justify-content: center; width: 100%; margin: 1.5rem 0;">
+<div align="center">
   <a href="https://twitter.com/intent/follow?screen_name=Ablaze_MIRAI" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Ablaze_MIRAI?style=social">
   </a>
@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<div style="margin-bottom: 2rem; text-align: center;">
+<div align="center">
   <p>Ablaze is a Japanese community.</p>
   <p>We develop browsers and Linux distributions such as Floorp and AlexandriteOS.</p>
 </div>
