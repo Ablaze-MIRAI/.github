@@ -1,8 +1,18 @@
 ![Ablaze](https://raw.githubusercontent.com/Ablaze-MIRAI/.github/main/img/header.png)
 
-Ablaze is a Japanese student community.
+<div style="display: flex; gap: 10px 20px; justify-content: center; width: 100%; margin: 1.5rem 0;">
+  <a href="https://twitter.com/intent/follow?screen_name=Ablaze_MIRAI" target="_blank" rel="noopener noreferrer">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Ablaze_MIRAI?style=social">
+  </a>
+  <a href="https://discord.com/invite/NCYYwx2Enn" target="_blank" rel="noopener noreferrer">
+    <img alt="Discord" src="https://img.shields.io/discord/877135925707173889">
+  </a>
+</div>
 
-We develop browsers and Linux distributions such as Floorp and AlexandriteOS.
+<div style="margin-bottom: 2rem; text-align: center;">
+  <p>Ablaze is a Japanese community.</p>
+  <p>We develop browsers and Linux distributions such as Floorp and AlexandriteOS.</p>
+</div>
 
 # 🔗 Links
 
@@ -30,3 +40,4 @@ We develop browsers and Linux distributions such as Floorp and AlexandriteOS.
 
 [Twitter](https://twitter.com/Ablaze_MIRAI)
 [GitHub](https://github.com/Ablaze-MIRAI)
+[Discord](https://discord.com/invite/NCYYwx2Enn)
