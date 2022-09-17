@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>Ablaze is a Japanese community.</p>
-  <p>We develop browsers and Linux distributions such as Floorp and AlexandriteOS.</p>
+  <p>We develop browsers and search engine such as Floorp and Frea Search.</p>
 </div>
 
 # 🔗 Links
@@ -22,22 +22,22 @@
 
 [ABlog](https://blog.ablaze.one)
 
-[KazaneProject](https://kazane.ablaze.one)
+[Donate](https://github.com/sponsors/Ablaze-MIRAI)
 
 # 🗂️ Project
 
-[Floorp](https://github.com/Floorp-Projects)
+[Floorp](https://floorp.ablaze.one/)
 
-[WP Article Web API](https://github.com/Ablaze-MIRAI/WP-Article-Web-API)
+[Frea Search](https://freasearch.org/)
 
-[Vivaldi-UI-Changer](https://github.com/Ablaze-MIRAI/Vivaldi-UI-Changer)
+[ConsoleTranslate](https://github.com/Ablaze-MIRAI/ConsoleTranslate)
 
-[Digital_Clock](https://github.com/Ablaze-MIRAI/Digital_Clock)
-
-[Google Forms Webhook](https://github.com/Ablaze-MIRAI/Google_Forms_Webhook)
+[freasearcher](https://github.com/Ablaze-MIRAI/freasearcher)
 
 # 💭 SNS
 
 [Twitter](https://twitter.com/Ablaze_MIRAI)
+
 [GitHub](https://github.com/Ablaze-MIRAI)
+
 [Discord](https://discord.com/invite/NCYYwx2Enn)
