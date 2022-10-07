@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>Ablaze is a Japanese community.</p>
-  <p>We develop browsers and search engine such as Floorp and Frea Search.</p>
+  <p>We develop browsers and search engines such as Floorp and Frea Search.</p>
 </div>
 
 # 🔗 Links
@@ -24,7 +24,7 @@
 
 [Donate](https://github.com/sponsors/Ablaze-MIRAI)
 
-# 🗂️ Project
+# 🗂️ Projects
 
 [Floorp](https://floorp.ablaze.one/)
 
