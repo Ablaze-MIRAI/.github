@@ -11,7 +11,7 @@
 
 <div align="center">
   <p>Ablaze is a Japanese community.</p>
-  <p>We develop browsers and search engines such as Floorp and Frea Search.</p>
+  <p>We develop browsers and browser extensions such as Floorp and Twitter UI Customizer.</p>
 </div>
 
 # 🔗 Links
@@ -28,16 +28,14 @@
 
 [Floorp](https://floorp.ablaze.one/)
 
-[Frea Search](https://freasearch.org/)
+[Twitter UI Customizer](https://github.com/kaonasi-biwa/Twitter-UI-Customizer)
 
 [ConsoleTranslate](https://github.com/Ablaze-MIRAI/ConsoleTranslate)
 
-[freasearcher](https://github.com/Ablaze-MIRAI/freasearcher)
-
 # 💭 SNS
 
-[Twitter](https://twitter.com/Ablaze_MIRAI)
+[X - Twitter](https://twitter.com/Ablaze_MIRAI)
 
 [GitHub](https://github.com/Ablaze-MIRAI)
 
-[Discord](https://discord.com/invite/NCYYwx2Enn)
+[Discord](https://aka.ablaze.one/discord)
