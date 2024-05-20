@@ -4,7 +4,7 @@
   <a href="https://twitter.com/intent/follow?screen_name=Ablaze_MIRAI" target="_blank" rel="noopener noreferrer">
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Ablaze_MIRAI?style=social">
   </a>
-  <a href="https://discord.com/invite/NCYYwx2Enn" target="_blank" rel="noopener noreferrer">
+  <a href="https://aka.ablaze.one/discord" target="_blank" rel="noopener noreferrer">
     <img alt="Discord" src="https://img.shields.io/discord/877135925707173889">
   </a>
 </div>
