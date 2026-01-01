@@ -1,18 +1,3 @@
-> [!IMPORTANT]
-> 
-> ### Notice of Change in the Management Structure of the “Floorp Project”.
-> 
-> For details, please see the following page.
-> 
-> https://ablaze.one/en/news/2025-05-01-change-management-structure-of-floorp-projects/
->
-> ### 「Floorp プロジェクト」運営体制変更のお知らせ。
-> 
-> 詳細は下記ページをご覧ください。
-> 
-> https://ablaze.one/ja/news/2025-05-01-change-management-structure-of-floorp-projects/
-
-
 ![Ablaze](https://raw.githubusercontent.com/Ablaze-MIRAI/.github/main/img/header.png)
 
 <div align="center">
