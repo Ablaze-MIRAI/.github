@@ -26,8 +26,6 @@
 
 # 🗂️ Projects
 
-[Floorp](https://floorp.ablaze.one/)
-
 [Twitter UI Customizer](https://github.com/kaonasi-biwa/Twitter-UI-Customizer)
 
 [ConsoleTranslate](https://github.com/Ablaze-MIRAI/ConsoleTranslate)
